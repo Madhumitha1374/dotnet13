@@ -1,0 +1,15 @@
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\bin\Debug\Wpf_Binding.exe.config
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\bin\Debug\Wpf_Binding.exe
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\bin\Debug\Wpf_Binding.pdb
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.csproj.AssemblyReference.cache
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\MainWindow.g.cs
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\App.g.cs
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding_MarkupCompile.cache
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding_MarkupCompile.lref
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\MainWindow.baml
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.g.resources
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.Properties.Resources.resources
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.csproj.GenerateResource.cache
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.exe
+D:\DotNetWorking\Wpf_Binding\Wpf_Binding\obj\Debug\Wpf_Binding.pdb

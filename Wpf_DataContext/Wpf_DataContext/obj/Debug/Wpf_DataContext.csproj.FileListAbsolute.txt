@@ -1,0 +1,15 @@
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\bin\Debug\Wpf_DataContext.exe.config
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\bin\Debug\Wpf_DataContext.exe
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\bin\Debug\Wpf_DataContext.pdb
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.csproj.AssemblyReference.cache
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\MainWindow.g.cs
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\App.g.cs
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext_MarkupCompile.cache
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext_MarkupCompile.lref
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\MainWindow.baml
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.g.resources
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.Properties.Resources.resources
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.csproj.GenerateResource.cache
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.exe
+D:\DotNetWorking\Wpf_DataContext\Wpf_DataContext\obj\Debug\Wpf_DataContext.pdb
